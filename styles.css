@@ -1,0 +1,13 @@
+.tab-nav{
+    display: flex;
+}
+.tab-nav__tabs{
+    display: flex;
+}
+.tab{
+    margin-right: 10px;
+}
+
+.tabcontent{
+    display: none;
+}
